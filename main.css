@@ -1,4 +1,14 @@
-
+#TOGGLEICON
+{
+   width: 35px;
+  height: 5px;
+  background-color: black;
+  margin: 6px 0;
+}
+.navbar-toggler-icon
+{
+  vertical-align: middle;
+}
 #scroll::-webkit-scrollbar-track
 {
   -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
@@ -44,7 +54,7 @@
       display: none; /* Hide the carousel text when the screen is less than 600 pixels wide */
     }
   }
-  @media only screen and (max-width: 600px) {
+/*  @media only screen and (max-width: 600px) {
   body {
     
     #PConly
@@ -52,7 +62,7 @@
       display: none;
     }
   }
-}
+}*/
   .carousel-caption p
   {
     font-size:  2em;
