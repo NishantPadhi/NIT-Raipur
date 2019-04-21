@@ -167,3 +167,24 @@
 {
   font-weight: bold;
 }
+@media (max-width: 600px)
+ {
+  #BottomImage
+  {
+    margin-left: 18%;
+  }
+ }
+ @media (min-width: 992px)
+ {
+  #BottomImage
+  {
+    margin-left: 19.5%;
+  }
+ }
+ @media (min-width: 600px)
+ {
+  #BottomImage
+  {
+    margin-left: 18%;
+  }
+ }
